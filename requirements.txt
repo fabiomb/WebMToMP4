@@ -1,0 +1,5 @@
+# No se requieren dependencias externas adicionales
+# El programa usa solo bibliotecas estándar de Python
+
+# Para crear el ejecutable:
+pyinstaller>=5.0
